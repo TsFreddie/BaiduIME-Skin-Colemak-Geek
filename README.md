@@ -1,6 +1,6 @@
 # Colemak Geek
 
-由 [Freddie](https://github.com/TsFreddie) 童鞋主办，修改自百度官方的 [Android L](http://r6.mo.baidu.com/web/is/v/231) 皮肤。亲测兼容 Android 和 iOS。
+修改自百度官方的 [Android L](http://r6.mo.baidu.com/web/is/v/231) 皮肤。兼容 Android 和 iOS。
 
 _Colemak Geek_ is a customized layout for Baidu IME for Mobile (Android, iOS and Symbian) with Colemak layout and full symbols support.
 
@@ -16,11 +16,6 @@ _Colemak Geek_ is a customized layout for Baidu IME for Mobile (Android, iOS and
 * 长按空格键切换输入法（仅 Android）
 * 英文状态下 K 键点划输入箭头符号
 * 支持邮箱、网址输入状态（仅 iOS）
-
-## 截图
-
-![中文布局](https://images.1a23.com/di/BD3L/Screenshot_2016-02-07-23-22-58.png)
-![英文布局](https://images.1a23.com/di/5KXJ/sVXPNOR.png)
 
 ## 安装方法:
 
@@ -41,4 +36,4 @@ _Colemak Geek_ is a customized layout for Baidu IME for Mobile (Android, iOS and
 * Android：点击输入法面板上熊头logo，进入“超级皮肤”（3.1版以下为“主题/皮肤”），在皮肤布局页中，选择您要启用的皮肤布局。
 * S60 v5/Symbian^3：点击输入法面板上熊头logo，进入“主题/皮肤”，在皮肤页中，选择您要启用的皮肤布局。 iPhone：进入输入法设置项，进入超级皮肤 ，在布局页中选择您要启用的皮肤布局。
 
-_（以上文字来自百度官方）_
+_（以上文字摘自百度官方）_
